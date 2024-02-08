@@ -26,7 +26,7 @@ In assessing how climate change variables contribute to predictive performance, 
 
 The study utilized five groups of independent variables and six variations of 'Real Housing Returns' as dependent variables. 
 
-The acronyms used in the modelling procces and their meanings can be found at 
+The acronyms used in the modeling process and their meanings can be found at https://github.com/brunotag18/ClimateFinance-UFRGS/blob/main/Variables%20Description.xlsx
 
 Dependent V
 
