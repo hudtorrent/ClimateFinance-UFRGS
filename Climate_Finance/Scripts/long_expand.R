@@ -1,0 +1,35 @@
+library(tidyverse)
+source("Scripts/functions.R")
+
+set1 <- read.csv2("Data/Long/1macro_financial.csv")
+set2 <- read.csv2("Data/Long/2eco_fin_uncert.csv")
+set3 <- read.csv2("Data/Long/3non_eco_fin_uncert.csv")
+set4 <- read.csv2("Data/Long/4climate_change.csv")
+set5 <- read.csv2("Data/Long/5climate_change_vol.csv")
+y <- read.csv2("Data/Long/housing_returns.csv")
+date <- y %>% select(Date) %>% tail(-11)
+y <- y %>% select(-Date)
+
+y_lag <- add_lags(data = y, lags = 11)
+set1_lag <- add_lags(data = set1, lags = 11)
+set2_lag <- add_lags(data = set2, lags = 11)
+set3_lag <- add_lags(data = set3, lags = 11)
+set4_lag <- add_lags(data = set4, lags = 11)
+set5_lag <- add_lags(data = set5, lags = 11)
+
+m1_data <- y_lag
+m2_data <- cbind(m1_data, set1_lag)
+m3_data <- cbind(m2_data, set2_lag)
+m4_data <- cbind(m3_data, set3_lag)
+m5_data <- cbind(m4_data, set4_lag)
+m6_data <- cbind(m5_data, set5_lag)
+
+long_expand <- cbind(date, y_lag, set1_lag, set2_lag, set3_lag, set4_lag, set5_lag)
+
+write.csv2(m1_data, file = "Output/Data/Long/m1_data.csv", row.names = F)
+write.csv2(m2_data, file = "Output/Data/Long/m2_data.csv", row.names = F)
+write.csv2(m3_data, file = "Output/Data/Long/m3_data.csv", row.names = F)
+write.csv2(m4_data, file = "Output/Data/Long/m4_data.csv", row.names = F)
+write.csv2(m5_data, file = "Output/Data/Long/m5_data.csv", row.names = F)
+write.csv2(m6_data, file = "Output/Data/Long/m6_data.csv", row.names = F)
+write.csv2(long_expand,file = "Output/Data/Long/long_expanded.csv", row.names = F)
