@@ -1,5 +1,5 @@
 # IS CLIMATE CHANGE RELEVANT FOR THE REAL ESTATE MARKET? A MACHINE LEARNING APPROACH
-Work presented to the Undergraduate Program in Economics at the Faculdade de Ciências Econômicas of UFRGS, as a partial requirement for the Bachelor's degree in Economics.
+The following sections exhibit various aspects of the work presented to the Undergraduate Program in Economics at the Faculdade de Ciências Econômicas of UFRGS, as a partial requirement for the Bachelor's degree in Economics.
 
 EXAMINATION BOARD:
 
@@ -21,3 +21,7 @@ Climate change, a pressing global challenge, has wide-ranging implications for v
 In brief, the study analyzes data spanning several decades, incorporating climate-related variables such as anomalies in temperature, precipitation, and drought. To model housing returns, the paper utilizes stepwise boosting, an iterative algorithm that gradually integrates variables to balance model complexity and mitigate the risk of overfitting.
 
 In assessing how climate change variables contribute to predictive performance, multiple models were tested, incorporating macroeconomic factors, financial factors, non-economic factors, non-financial factors, and measures of uncertainties. Finally, the study also examines the relevance of climate-related variables in housing return modeling, particularly by analyzing their selection rates within the boosting algorithm
+
+# METHODOLOGY
+
+At the core of the stepwise boosting methodology lies the following logic. It seeks to construct a parsimonious yet highly effective linear model within the challenge of high-dimensional data. To circumvent the inconsistency, stepwise boosting constructs this model in an incremental fashion, systematically incorporating variables one by one. This iterative approach endeavors to arrive at the optimal model, one that encapsulates best the relationships between variables. The outcome is a function that aptly balances predictive accuracy and model simplicity. In this section, we delve into the intricacies of this stepwise boosting methodology and elucidate its application within the context of our research, culminating in a robust framework for predictive analysis
