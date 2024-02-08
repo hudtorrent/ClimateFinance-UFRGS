@@ -28,13 +28,35 @@ The study utilized five groups of independent variables and six variations of 'R
 
 The acronyms used in the modeling process and their meanings can be found at https://github.com/brunotag18/ClimateFinance-UFRGS/blob/main/Variables%20Description.xlsx
 
-** Dependent Variables **
+**Dependent Variables:** FHFA Index Returns
 - Overall Real Housing Returns
 - Aggregate Real Housing Returns
 - Northeast Real Housing Returns
 - Midwest Real Housing Returns
 - South Real Housing Returns
 - West Real Housing Returns
+
+**Group 1:** Macro&Financial Factors
+- From Ludvigson and Ng (2009)
+
+**Group 2:** Macro&Financial Uncertainty Factors
+- From Ludvigson et al. (2021)
+- 
+**Group 3:** Non-Macro&Financial Uncertainty Factors
+- From Ludvigson et al. (2021)
+- 
+**Group 4:** Climate Factors from National Center for Environmental Information
+- Average Temperature
+- Maximum Temperature
+- Minimum Temperature
+- Precipitation
+- Cooling Degree Days
+- Heating Degree Days
+- Palmer Drought Severity Index (PDSI)
+- Palmer Hydrological Drought Index (PHDI)
+- Palmer Modified Drought Index (PMDI)
+- Palmer Z-Index
+
 
 # METHODOLOGY
 
