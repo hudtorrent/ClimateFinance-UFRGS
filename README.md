@@ -28,7 +28,13 @@ The study utilized five groups of independent variables and six variations of 'R
 
 The acronyms used in the modeling process and their meanings can be found at https://github.com/brunotag18/ClimateFinance-UFRGS/blob/main/Variables%20Description.xlsx
 
-Dependent V
+** Dependent Variables **
+- Overall Real Housing Returns
+- Aggregate Real Housing Returns
+- Northeast Real Housing Returns
+- Midwest Real Housing Returns
+- South Real Housing Returns
+- West Real Housing Returns
 
 # METHODOLOGY
 
