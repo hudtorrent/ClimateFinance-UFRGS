@@ -57,3 +57,15 @@ For the regional variables, none of the models incorporating climate change vari
 
 As the selection of variables holds paramount importance in the context of step-wise boosting, this section seeks to evaluate the relevance of climate change variables in the modeling of housing returns by looking at its selection rate. 
 
+The first noteworthy result is that, for the overall real housing returns, in Model 6, a significant proportion of the 15 most frequently selected variables are associated with Climate Change Volatility. Notably, the lags of Cooling Degree Days Anomaly and Heating Degree Days Anomaly stand out as key contributors within this subset. It is pertinent to underscore that, apart from the lags of housing returns, only the variables from the first set, specifically the macro factors, consistently feature among the top 15 variables in Models 2 through 4. Only with the introduction of climate change factors in Models 5 and 6 can we see a shift in this trend.
+
+The analysis of the frequency of variable selection reveals an interesting pattern, with select climate change variables exhibiting frequencies exceeding 80% for specific  horizons of prediction. Notably, the tenth lag of Cooling Degree Days Anomaly Volatility and the fourth lag of Heating Degree Days Anomaly Volatility were consistently selected in 100% of instances when h = 6.
+
+For the aggregate housing returns, the prevalence of climate change variables is notably less pronounced compared to the previous case. An extreme instance of this phenomenon occurs at h = 6, where only a single climate change variable finds its way into the selection.
+
+Interestingly, our analysis reveals the emergence of diverse factors beyond the Cooling Degree Days Anomaly and Heating Degree Days Anomaly within the top 15 selected variables. These include Precipitation Anomaly, PDSI Anomaly, PMDI Anomaly, and Z-Index Anomaly. Nevertheless, it remains a consistent pattern that climate change factors continue to be the predominant representatives from variable sets beyond the first one in the selection.
+
+The results of regional housing returns, while a definitive pattern is not observed it is evident that climate change variables bear significance, albeit in a nuanced manner. Notably, for the Midwest (YM) region, climate change variables seem to have some importance, particularly at h = 1, 3, and 12. Similarly, for the Northeast region, climate change variables exhibit relevance at h = 3, 6, and 12.
+
+Examining the frequency of variable selection, certain climate change factors consistently emerge with selection frequencies surpassing 80%. This recurring selection, despite models containing these factors not consistently demonstrating substantial improvements in forecasting accuracy, might be an indicator of the importance of such factors.
+
