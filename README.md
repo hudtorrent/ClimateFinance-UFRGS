@@ -20,7 +20,15 @@ Climate change, a pressing global challenge, has wide-ranging implications for v
 
 In brief, the study analyzes data spanning several decades, incorporating climate-related variables such as anomalies in temperature, precipitation, and drought. To model housing returns, the paper utilizes stepwise boosting, an iterative algorithm that gradually integrates variables to balance model complexity and mitigate the risk of overfitting.
 
-In assessing how climate change variables contribute to predictive performance, multiple models were tested, incorporating macroeconomic factors, financial factors, non-economic factors, non-financial factors, and measures of uncertainties. Finally, the study also examines the relevance of climate-related variables in housing return modeling, particularly by analyzing their selection rates within the boosting algorithm
+In assessing how climate change variables contribute to predictive performance, multiple models were tested, incorporating macroeconomic factors, financial factors, non-economic factors, non-financial factors, and measures of uncertainties. Finally, the study also examines the relevance of climate-related variables in housing return modeling, particularly by analyzing their selection rates within the boosting algorithm.
+
+# DATA
+
+The study utilized five groups of independent variables and six variations of 'Real Housing Returns' as dependent variables. 
+
+The acronyms used in the modelling procces and their meanings can be found at 
+
+Dependent V
 
 # METHODOLOGY
 
