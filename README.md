@@ -38,13 +38,16 @@ The acronyms used in the modeling process and their meanings can be found at htt
 
 **Group 1:** Macro&Financial Factors
 - From Ludvigson and Ng (2009)
+- Available at https://www.sydneyludvigson.com/
 
 **Group 2:** Macro&Financial Uncertainty Factors
 - From Ludvigson et al. (2021)
-- 
+- Available at https://www.sydneyludvigson.com/
+  
 **Group 3:** Non-Macro&Financial Uncertainty Factors
 - From Ludvigson et al. (2021)
-- 
+- Available at https://www.sydneyludvigson.com/
+  
 **Group 4:** Climate Factors from National Center for Environmental Information
 - Average Temperature
 - Maximum Temperature
