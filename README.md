@@ -114,4 +114,8 @@ Examining the frequency of variable selection, certain climate change factors co
 			
 ![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/ac2d0470-ad3a-4b36-8675-541759c56e42)
 
+![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/5ed8fb0f-484a-4c49-8a44-24e7a4f7f7ff)
 
+![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/500efe4f-b1c8-4c08-aae4-c59c95a37d78)
+
+![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/eab05cc9-57e4-4ac8-adad-b59fceedc10f)
