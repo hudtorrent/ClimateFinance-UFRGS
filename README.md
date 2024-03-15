@@ -114,8 +114,31 @@ Figure 1 – Macroeconomic and Financial Factors
 
 ![set1_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/3347bc9c-597d-4de6-8681-91fb42dfd2cd)
 
-
 Source: own elaboration based on data from Ludvigson and Ng. (2009) (1960-2021).
+
+Figure 2 – Macroeconomic and Financial Uncertainties Factors
+
+![set2_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/a45ca994-cd0a-4ccd-9292-a811478f043c)
+
+Source: own elaboration based on data from Ludvigson et al. (2021) (1960-2021).
+
+Figure 3 – Non-macroeconomic and Non-financial Uncertainties Factors
+
+![set3_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/938419f6-5540-41a5-98c0-780ee5b8ce27)
+
+Source: own elaboration based on data from Ludvigson et al. (2021) (1960-2021).
+
+Figure 4 – Climate Change Factors
+
+![set4_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/f82e83c3-4725-4104-8000-293331a7b44b)
+
+Source: own elaboration based on data from the National Center for Environmental Information (1960-2021).
+
+Figure 5 – Climate Change Factors Volatility
+
+![set5_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/729c5b92-ee66-4034-9afc-eabe1ff444e7)
+
+Source: own elaboration based on data from the National Center for Environmental Information (1960-2021).
 
 
 # APPENDIX B - REGIONAL RESULTS
