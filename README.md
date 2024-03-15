@@ -108,3 +108,10 @@ The results of regional housing returns, while a definitive pattern is not obser
 
 Examining the frequency of variable selection, certain climate change factors consistently emerge with selection frequencies surpassing 80%. This recurring selection, despite models containing these factors not consistently demonstrating substantial improvements in forecasting accuracy, might be an indicator of the importance of such factors.
 
+# APPENDIX A - DEPENDENT VARIABLES
+
+# APPENDIX B - REGIONAL RESULTS
+			
+![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/ac2d0470-ad3a-4b36-8675-541759c56e42)
+
+
