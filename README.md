@@ -110,6 +110,14 @@ Examining the frequency of variable selection, certain climate change factors co
 
 # APPENDIX A - DEPENDENT VARIABLES
 
+Figure 1 – Macroeconomic and Financial Factors
+
+![set1_page-0001](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/3347bc9c-597d-4de6-8681-91fb42dfd2cd)
+
+
+Source: own elaboration based on data from Ludvigson and Ng. (2009) (1960-2021).
+
+
 # APPENDIX B - REGIONAL RESULTS
 			
 ![image](https://github.com/brunotag18/ClimateFinance-UFRGS/assets/85254516/ac2d0470-ad3a-4b36-8675-541759c56e42)
